@@ -1,4 +1,29 @@
-# Getting Started with Create React App
+# To Do List 
+
+## User Stories
+```
+As a User, 
+So I can view my tasks to complete, 
+I would like to see a list of To Do notes.
+```
+```
+As a User, 
+So I can add to my To Do list, 
+I would like to create a To Do note.
+```
+```
+As a User, 
+So I can see which tasks are complete, 
+I would to check them off.
+```
+```
+As a User, 
+So I can start afresh, 
+I would to be able to reset my list.
+```
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
