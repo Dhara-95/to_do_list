@@ -1,5 +1,7 @@
 # To Do List 
 
+React Practice - [Project 3](https://github.com/makersacademy/react/tree/master/units/tdd/project3) from the Makers Academy React repository.
+
 ## User Stories
 ```
 As a User, 
