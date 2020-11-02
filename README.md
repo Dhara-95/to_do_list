@@ -4,6 +4,8 @@ React Practice - [Project 3](https://github.com/makersacademy/react/tree/master/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The aim of this project is to complete the user stories below to create a React To Do List web application, using TDD practices. 
+
 ## User Stories
 ```
 As a User, 
