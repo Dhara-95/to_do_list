@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('Shows Hello, World! on page', () => {
+test('Shows To Do List App on page', () => {
   render(<App />)
 
-  expect(screen.getByText('Hello, World!')).toBeInTheDocument()
+  expect(screen.getByText('To Do List App')).toBeInTheDocument()
 })
